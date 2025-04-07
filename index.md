@@ -5,3 +5,4 @@
 ##### Header 5
 ###### Header 6
 Tested all 6 header sizes
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
