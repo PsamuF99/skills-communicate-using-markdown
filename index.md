@@ -6,4 +6,6 @@
 ###### Header 6
 Tested all 6 header sizes
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
 var myVar = "Hello, world!";
+```
